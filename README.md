@@ -1,5 +1,5 @@
 # MINI PYTHON PROJECTS DEVELOPED by phoenix
-### This contains several mini python projects as described below
+This contains several mini python projects as described below
 
 
 ## 1. **Number Guessing Game**
