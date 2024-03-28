@@ -4,7 +4,7 @@
 # This contains several mini python projects as described below
 
 
-1 > ## **Number Guessing Game**
+1. > ## **Number Guessing Game**
 
   - How to start and play the game on the terminal
     - > From the terminal navigate to the directory where the _number_guessing_game.py_ is
