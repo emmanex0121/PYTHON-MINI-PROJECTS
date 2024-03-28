@@ -15,4 +15,4 @@ This contains several mini python projects as described below
     - is above or below the Real Number
 
 
-### Emmanuel Nwachukwu <Emmax0121@gmail.com>
+### Emmanuel Nwachukwu [<Emmax0121@gmail.com>]
