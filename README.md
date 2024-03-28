@@ -7,7 +7,6 @@
 - ## **Number Guessing Game**
 
   - How to start the game on the terminal
-  
     - Run the commmand ```./number_guessing_game.py``` or ```python3 number_guessing_game.py```
 
 
