@@ -12,7 +12,7 @@ This contains several mini python projects as described below
     - The Game Generates a number from 1 to the number provided
     - You can now guess the number the game generates
     - If you are wrong, the game hints you whether your guess
-    - is above or below the Real Number
+    - is above or below the Real Number `#0969DA`
 
 
 ### Emmanuel Nwachukwu <Emmax0121@gmail.com>
