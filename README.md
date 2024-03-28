@@ -6,9 +6,9 @@
 
 - ## **Number Guessing Game**
 
-  How to start the game on the terminal
+  - How to start the game on the terminal
   
-  - Run the commmand ```./number_guessing_game.py``` or ```python3 number_guessing_game.py```
+    - Run the commmand ```./number_guessing_game.py``` or ```python3 number_guessing_game.py```
 
 
 ### Emmanuel Nwachukwu <Emmax0121@gmail.com>
