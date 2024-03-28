@@ -6,7 +6,7 @@
 
 ## 1. **Number Guessing Game**
 
-  - How to start and play the game on the terminal
+  - **How to start and play the game on the terminal**
     - > From the terminal navigate to the directory where the _number_guessing_game.py_ is
     - > OR use the syntax ```python3 FILE_PATH```
     - Run the commmand ```./number_guessing_game.py``` or ```python3 number_guessing_game.py```
