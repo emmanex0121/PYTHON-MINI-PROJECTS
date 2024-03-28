@@ -6,7 +6,8 @@
 
 - ## **Number Guessing Game**
 
-  Run the commmand ./number_guessing_game.py
+  How to start the game
+  Run the commmand ```./number_guessing_game.py``` or ```python3 number_guessing_game.py```
 
 
 ### Emmanuel Nwachukwu <Emmax0121@gmail.com>
