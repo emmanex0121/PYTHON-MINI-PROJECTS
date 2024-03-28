@@ -13,6 +13,7 @@ This contains several mini python projects as described below
     - You can now guess the number the game generates
     - If you are wrong, the game hints you whether your guess
     - is above or below the Real Number `#0969DA`
+    - $${\color{red}Welcome \space \color{lightblue}
 
 
 ### Emmanuel Nwachukwu <Emmax0121@gmail.com>
